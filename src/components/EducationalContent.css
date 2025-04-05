@@ -1,0 +1,17 @@
+.educational-content {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 4px;
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .educational-content ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .educational-content li {
+    margin-bottom: 10px;
+  }
+  

@@ -1,0 +1,36 @@
+.product-discovery {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 4px;
+  }
+  
+  .product-card {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 16px;
+    width: 250px;
+    margin: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    background-color: #fafafa;
+  }
+  
+  .product-card h3 {
+    margin-top: 0;
+  }
+  
+  .product-card button {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .product-card button:hover {
+    background-color: #0056b3;
+  }
+  
